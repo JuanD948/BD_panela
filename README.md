@@ -1,4 +1,4 @@
-# BD_panela
+# BD_panela2
 BD sobre maquinas en la elaboración de panela
 
 <hr>
