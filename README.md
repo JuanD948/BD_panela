@@ -1,4 +1,4 @@
-# BD_panela2
+# BD_panela
 BD sobre maquinas en la elaboración de panela
 
 <hr>
@@ -16,7 +16,7 @@ Este repositorio contiene una base de datos de los diferentes equipos usados en 
 | ------ | ------------- | ------------- | ------------------------- |
 | PK     | id_maquinas   | int           | Identificador de Maquinas |
 |        | Nombre        | Varchar       | Nombre de la maquina      |
-|  KU    | Codigo        | Varchar       | Codigo interno            |
+| KU     | Codigo        | Varchar       | Codigo interno            |
 |        | Capacidad     | Varchar       | Especificacion del tamaño |
 
 
