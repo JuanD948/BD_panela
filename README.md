@@ -16,7 +16,7 @@ Este repositorio contiene una base de datos de los diferentes equipos usados en 
 | ------ | ------------- | ------------- | ------------------------- |
 | PK     | id_maquinas   | int           | Identificador de Maquinas |
 |        | Nombre        | Varchar       | Nombre de la maquina      |
-|  PU    | Codigo        | Varchar       | Codigo interno            |
+|  KU    | Codigo        | Varchar       | Codigo interno            |
 |        | Capacidad     | Varchar       | Especificacion del tamaño |
 
 
