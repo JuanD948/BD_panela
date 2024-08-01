@@ -1,7 +1,9 @@
+-- Base de datos sencilla de un listado de maquinas usado en una empresa mediana de produccion de panelas
+
 -- --------------------------------------------------------
--- Host:                         190.90.160.172
--- Versión del servidor:         10.6.18-MariaDB-cll-lve-log - MariaDB Server
--- SO del servidor:              Linux
+-- Juan Diego Duarte
+-- Version 1
+-- Abril, 2024
 -- HeidiSQL Versión:             10.2.0.5599
 -- --------------------------------------------------------
 
