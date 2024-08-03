@@ -11,7 +11,8 @@ Este repositorio contiene una base de datos de los diferentes equipos usados en 
 
 ## Contenido
 
-- **Maquinas**: contiene las maquina usada en la elaboracion de panela.
+- **Maquinas**: contiene las maquina usada en la elaboracion de panela
+  
 | key    | Maquinas      | Tipo de dato  | Descripcion               |
 | ------ | ------------- | ------------- | ------------------------- |
 | PK     | id_maquinas   | int           | Identificador de Maquinas |
